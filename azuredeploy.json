@@ -34,7 +34,7 @@
 					}
 				},
 				"hardwareProfile": {
-					"vmSize": "Standard_D2_v2"
+					"vmSize": "Standard_D2as_v4"
 				},
 				"storageProfile": {
 					"imageReference": {
